@@ -1,0 +1,15 @@
+
+# Build files
+Makefile
+CMakeCache.txt
+CMakeFiles/*
+cmake_install.cmake
+*.pcm
+
+# Executables
+Cl2Mf-converter
+Px2Mf-converter
+Mo2Mf-converter
+Lu2Mf-converter
+Mf-updater
+Mf-filter

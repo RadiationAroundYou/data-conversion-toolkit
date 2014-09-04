@@ -1,0 +1,23 @@
+
+# Build objects
+*.o
+
+# Executables
+Cl2Mf-converter
+
+# ROOT output
+*.root
+
+# Doxygen output
+html/
+latex/
+
+# Temporary files
+tmp/
+tmp*/
+
+# Text output
+#*.txt
+
+# Miscellaneous
+old/

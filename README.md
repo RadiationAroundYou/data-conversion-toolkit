@@ -1,4 +1,6 @@
-data-conversion-toolkit
-=======================
+CERN@school Data Conversion Toolkit
+===================================
 
-Tools to convert and analyse data client-side
+A suite of tools for converting data between the various data formats.
+
+See the wiki for more information.

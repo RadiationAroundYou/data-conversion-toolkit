@@ -1,0 +1,14 @@
+# C ignores
+*.so
+*.d
+
+# Python ignores
+*.pyc
+
+# Old files
+*OLD*
+*old*
+
+# Output files
+*.root
+*.txt
